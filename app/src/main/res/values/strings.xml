@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SortingAndroid</string>
+    <string name="top_5">Top 5</string>
+    <string name="common_word_n_finder_3000">COMMON WORD\n FINDER 3000</string>
+    <string name="most_common">Most Common</string>
+    <string name="text_name">Text Name</string>
+</resources>
